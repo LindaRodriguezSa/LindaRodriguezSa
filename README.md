@@ -1,7 +1,7 @@
 # Bienvenidos
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/linda-rodríguez-salamanca/" target="_blank">
+  <a href="https://www.linkedin.com/in/linda-rodr%C3%ADguez-salamanca-265226117" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/LindaRodriguezSa" target="_blank">
