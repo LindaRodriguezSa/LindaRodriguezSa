@@ -1,7 +1,7 @@
-# Bienvenido a mi página 
+# Bienvenidos
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/leylacarmona/" target="_blank">
+  <a href="[https://www.linkedin.com/in/linda-rodríguez-salamanca/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/LindaRodriguezSa" target="_blank">
@@ -13,8 +13,8 @@
 </p>
 
 ## ¿Quién soy?
-Soy desarrolladora fullstack 🎨 <br>
- curso de Javascript, HTML y CSS 🎓
+Soy ingeniera de sistemas con interés en el desarrollo de software, con alta disposición al aprendizaje, facilidad para trabajar en equipo  en el desarrollo de  proyectos. 🎓 <br>
+
 
 
 ### Gracias por visitar mi sitio
