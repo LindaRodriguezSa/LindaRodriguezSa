@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 Hola, soy Linda Rodríguez
+  👋 Hola, soy Linda Rodríguez Salamanca
 </h1>
 
 <p align="center">
